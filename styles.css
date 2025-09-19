@@ -1,0 +1,10 @@
+.cart {
+    display:none;
+    position: absolute;
+    background-color: cornflowerblue;
+    width: 200px;
+}
+
+.miniCart {
+    position: relative;
+}
